@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NestedGrid (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NestedGrid (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

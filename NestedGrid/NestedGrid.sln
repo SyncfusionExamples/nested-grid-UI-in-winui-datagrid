@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedGrid", "NestedGrid.csproj", "{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|ARM64.Build.0 = Debug|ARM64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|x64.ActiveCfg = Debug|x64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|x64.Build.0 = Debug|x64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|x64.Deploy.0 = Debug|x64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|x86.ActiveCfg = Debug|x86
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|x86.Build.0 = Debug|x86
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Debug|x86.Deploy.0 = Debug|x86
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|ARM64.ActiveCfg = Release|ARM64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|ARM64.Build.0 = Release|ARM64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|ARM64.Deploy.0 = Release|ARM64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|x64.ActiveCfg = Release|x64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|x64.Build.0 = Release|x64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|x64.Deploy.0 = Release|x64
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|x86.ActiveCfg = Release|x86
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|x86.Build.0 = Release|x86
+		{EB3CC181-BE76-448D-BA6E-D4AE01EAC096}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB13DE26-0D2F-4093-B8DC-1E0063B8DC7E}
+	EndGlobalSection
+EndGlobal
